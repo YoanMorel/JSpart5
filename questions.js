@@ -48,7 +48,7 @@ var arraySort = function (socialMedia) {
   return 'A compléter';
 }
 
-var arrayInvert = function (socialMedia){
+var arrayInvert = function (languages){
 
 
   return 'A compléter';
